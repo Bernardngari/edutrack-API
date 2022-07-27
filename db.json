@@ -1,0 +1,46 @@
+{
+"actionItem": [
+{
+"topic": "React hooks",
+"completion": "Not started",
+"priority": "high",
+"url": "https://github.com/rehooks/awesome-react-hooks",
+"id": 1
+},
+{
+"topic": "React forms",
+"completion": "Not started",
+"priority": "low",
+"url": "https://react-hook-form.com/",
+"id": 2
+},
+{
+"topic": "CSS styling",
+"completion": "Not started",
+"priority": "low",
+"url": "https://devdocs.io/css/",
+"id": 3
+},
+{
+"topic": "UI/UX design",
+"completion": "Not started",
+"priority": "low",
+"url": "https://careerfoundry.com/en/blog/ux-design/what-is-a-wireframe-guide/",
+"id": 4
+},
+{
+"topic": "Events in React",
+"completion": "Not started",
+"priority": "low",
+"url": "https://reactjs.org/docs/events.html#supported-events",
+"id": 5
+},
+{
+"topic": "General content repo",
+"completion": "Not started",
+"priority": "low",
+"url": "https://github.com/sindresorhus/awesome#readme",
+"id": 6
+}
+]
+}
